@@ -43,14 +43,14 @@ img {
   width: 100%;
   max-width: 272px;
   height: 38px;
-  background: #4e857f;
+  background: #bbede7;
   padding: 0 16px;
   font-size: 16px;
   border: 1px solid #77fff8;
 }
 
 .form-input:hover {
-  background: hsl(174, 100%, 91%);
+  background: hsl(183, 74%, 79%);
 }
 
 .form-btn {
