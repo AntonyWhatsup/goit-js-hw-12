@@ -43,10 +43,10 @@ img {
   width: 100%;
   max-width: 272px;
   height: 38px;
-  background: #bdf3ee;
+  background: #4e857f;
   padding: 0 16px;
   font-size: 16px;
-  border: 1px solid #43aca6;
+  border: 1px solid #77fff8;
 }
 
 .form-input:hover {
